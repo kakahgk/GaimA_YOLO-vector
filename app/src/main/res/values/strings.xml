@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aimbot</string>
+    <string name="app_name">GaimA</string>
 
     <!-- Login screen -->
     <string name="login_subtitle">输入授权码以继续</string>
